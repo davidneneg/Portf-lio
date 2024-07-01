@@ -67,20 +67,14 @@ body {
 .apresentacao__links__link {
     border: 2px solid #22D4FD;
     color: #f6f6f6;
-    width: 280px;
+    width: 378px;
     text-align: center;
-    font-size: 24px;
-    font-family: "Montserrat", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 600;
-    font-style: normal;
-    text-decoration: none;
-    top: 681px;
-    left: 362px;
-    padding: 21px 0px 21px 0px;
-    gap: 16px;
     border-radius: 16px;
-
+    font-size: 24px;
+    font-weight: 600;
+    padding: 21.5px 0px;
+    text-decoration: none;
+    font-family: "Montserrat", sans-serif;
 }
 
 
